@@ -1,4 +1,4 @@
-repeat task.wait() until game:IsLoaded()
+/*repeat task.wait() until game:IsLoaded()
 
 while task.wait() do
     if game.PlaceId ~= 116614712661486 then
@@ -15,3 +15,4 @@ game:service("Players").LocalPlayer.Idled:connect(
 	end
 )
 
+*\
